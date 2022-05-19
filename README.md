@@ -1,4 +1,4 @@
-# WarpSR
+# The Warp Stackless Runtime
 A revolutionary business platform for modern applications.
 
 ### Documentation
